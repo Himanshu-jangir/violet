@@ -1,0 +1,10 @@
+1) cd (enter)
+2)choose git folder and CD it
+3)configure account => 1)git config --global user.name "Your Name"
+		       2)git config --global user.email Your Email
+		       3)git clone (url)
+4)make your files in git folder 
+5)Upload files to live on git (git add file_name.extantion)
+6)check file status (git status)
+7)Commit file(git commit -m "commited message" filename)
+8)Push file on hub (git push -u origin master)

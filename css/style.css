@@ -1993,7 +1993,18 @@ ol {
 	margin-bottom: 25px;
 }
 
-.contact-form textarea {
+.input{
+	width: 100%;
+	font-size: 12px;
+	font-weight: 600;
+	color: #838383;
+	border: 0;
+	padding-bottom: 14px;
+	border-bottom: 2px solid #E7EBED;
+	margin-bottom: 25px;
+}
+
+.textarea {
 	width: 100%;
 	border-bottom: 2px solid #E7EBED;
 	font-size: 12px;
@@ -2007,7 +2018,7 @@ ol {
 	margin-bottom: 40px;
 }
 
-.contact-form button {
+.button {
 	color: #1e1e1e;
 	background: transparent;
 	border: none;

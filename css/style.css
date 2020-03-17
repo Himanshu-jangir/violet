@@ -2004,7 +2004,7 @@ ol {
 	margin-bottom: 25px;
 }
 
-.textarea {
+/*.textarea {
 	width: 100%;
 	border-bottom: 2px solid #E7EBED;
 	font-size: 12px;
@@ -2029,7 +2029,7 @@ ol {
 	border-radius: 50px;
 	cursor: pointer;
 	text-transform: uppercase;
-}
+}*/
 
 .contact-widget .cw-item {
 	margin-bottom: 50px;
